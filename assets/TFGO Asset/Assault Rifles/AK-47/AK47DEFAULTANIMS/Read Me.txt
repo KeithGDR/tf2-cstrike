@@ -1,0 +1,8 @@
+How to install
+
+Put the 'Required Files' VPK into your TF2 Custom folder and then pick what type of mag you want from the bakelite or steel vpk.
+
+Enjoy!
+
+(ALL CREDIT FOR THE MODEL,SOUNDS, AND MATERIALS GOES TO DanielAwesomo, An Aggressive Napkin, Strelok, AND NIGHTM@R3)
+(CREDIT TO BL8DEMAST3R FOR FIXING THIS FOR DEFAULT ANIMATIONS, AND UPDATING FOR GOLD.)

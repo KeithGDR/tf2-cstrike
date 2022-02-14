@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$basetexture "models/weapons/c_models/c_smg/bullets"
+
+	$phong 1
+	$phongfresnelranges "[0.82 0.91 3]"
+	$phongexponent 50
+	$phongboost 2
+	$phongalbedoboost 8
+	$basemapalphaphongmask 1
+
+	$rimlight 1
+	$rimlightexponent 30
+	$rimlightboost 2
+}
